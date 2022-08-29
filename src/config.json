@@ -1,7 +1,7 @@
 {
-  "region": "eu-west-1",
-  "userPool": "eu-west-1_3X34Zo9dy",
-  "identityPool": "eu-west-1:d1d15b4f-e872-422a-9fa7-5ad0c273a0d6",
-  "clientId": "2ieipjhutcpoeta6pbn2kn90t4"
+  "region": "ap-south-1",
+  "userPool": "ap-south-1_I9TqvlFOe",
+  "identityPool": "ap-south-1:de56c7bb-e305-414e-b7cd-342e12f5eb43",
+  "clientId": "565mirlp0d0uo1fm9e00d6hea0"
 }
 
